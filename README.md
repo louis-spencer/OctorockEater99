@@ -4,7 +4,7 @@
 - I am an undergraduate studying at the _University of Connecticut_
 - Majoring in _Electrical Engineering_
 - Minoring in both _Computer Science_ and _Mathematics_
-- Vice-president of _FROST Robotics_ and _UConn IEEE_ undergraduate chapter
+- Vice President of _FROST Robotics_ and _UConn IEEE_ undergraduate chapter
 ##
 ![I taught myself to use Blender on the side](galaxyv3.png)
 _Made in Blender_
